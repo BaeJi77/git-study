@@ -11,3 +11,4 @@ branch-1
 6
 
 rebase-main
+rebase-branch-2
